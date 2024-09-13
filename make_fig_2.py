@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 17 08:32:25 2023
-
-@author: R
-"""
-
-#Increase EC50 or decrease E_max for resistant? 
-
 import numpy as np
 import scipy.integrate as spint
 import matplotlib.pyplot as plt
